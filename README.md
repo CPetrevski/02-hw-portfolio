@@ -61,4 +61,4 @@ https://github.com/CPetrevski
 
 https://cpetrevski.github.io/02-hw-portfolio/
 
-
+<img src="./assets/images/preview.png">
