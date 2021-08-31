@@ -1,7 +1,9 @@
-# 02-hw-portfolio
+# 02-hw-portfolio #
 CSS Portfolio for second homework task
 
 Create a Webiste for my own portfolio from scratch.
+
+## Acceptance Criteria ##
 
 Acceptance criteria is as states.
 
@@ -19,4 +21,42 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
+## Work Carried Out ##
+
 Created basic structure website.
+
+Created a heading and nav bar underneath with the links nested to the side.
+
+Created an about section with a picture and small about me section.
+
+Created a work section displaing apps I have created. Was instructed to have the first one bigger but I wish to choose the even tile layout for my page.
+
+Created a contact me section with text box's. Currently under development for actually sending an email to my address.
+
+Created a footer for copyright logo and also a small link to my github.
+
+Created a reset.css stylesheet.
+
+Created a CSS stylesheet.
+
+Added a new webfont i liked.
+
+Added styles to different sections.
+
+Added FLEXBOX for a responsive layout.
+
+Small style changes to layout.
+
+Added links to git hub and resume.
+
+Added links to sections of the page from the navbar.
+
+## Links ##
+
+# GitHub #
+
+https://github.com/CPetrevski
+
+# Web Page #
+
+https://cpetrevski.github.io/02-hw-portfolio/
