@@ -5,12 +5,13 @@
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="./assets/css/reset.css">
         <link rel="stylesheet" href="./assets/css/style.css">
+        <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
         <title>Chris Petrevski's Portfolio</title>
     </head>
 
     <body>
         <header>
-            <h1>CHRIS PETREVSKI'S PORTFOLIO</h1>
+            <h1>CHRIS PETREVSKI</h1>
         </header>
 
         <nav>
@@ -84,6 +85,25 @@
 
         <section id="contact-me">
             <h2 class="contact-header">Contact Me</h2>
+            <div class="contact-form">
+                  <form action="action_page.php">
+
+                <div class="form-box">
+                  <label for="fname">First Name</label>
+                  <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                </div>
+                <div class="form-box">
+                  <label for="lname">Last Name</label>
+                  <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                </div>
+                <div class="form-box">
+                  <label for="subject">Subject</label>
+                  <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+                </div>
+                  <input type="submit" value="Submit">
+              
+                </form>
+              </div>
         </section>
 
         <footer>
