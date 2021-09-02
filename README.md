@@ -53,11 +53,13 @@ Added links to sections of the page from the navbar.
 
 ## Links ##
 
-# GitHub #
+
+
+### GitHub ###
 
 https://github.com/CPetrevski
 
-# Web Page #
+### Web Page ###
 
 https://cpetrevski.github.io/02-hw-portfolio/
 

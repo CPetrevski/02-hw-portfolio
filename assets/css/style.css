@@ -33,7 +33,7 @@ nav a {
     text-decoration: none;
     text-align: center;
 }
-
+/* hover link style */
 nav a:hover {
     color: #66FCF1;
     transition: 1s;
@@ -145,7 +145,7 @@ nav a:hover {
     align-items: center;
     flex-wrap: wrap;
 }
-
+/* Contact form field */
 .contact-form label {
     min-width: 100px;
 }
@@ -182,8 +182,8 @@ input[type=text], select, textarea {
   footer img {
       margin: 20px 10px 10px 10px;
   }
-
-  @media screen and (max-width: 500px) {
+/* small device layout for about section. All other sections work as needed. */
+  @media screen and (max-width: 600px) {
     .about {
         flex-direction: column;
     }
