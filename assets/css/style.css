@@ -118,7 +118,7 @@ nav a:hover {
     opacity: 0%;
     transition: 1s;
 }
-
+/* Header in the centre of card */
 .card h3 {
     font-size: 200%;
     position: absolute;
